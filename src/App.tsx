@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useCallback, useRef } from "react";
+import { useState, useEffect, useCallback, useRef } from "react";
 import { Canvas } from "@react-three/fiber";
 import { OrbitControls, Cylinder } from "@react-three/drei";
 import { Button } from "@/components/ui/button";
